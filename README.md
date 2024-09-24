@@ -1,2 +1,2 @@
 # TheDailyCode
- When bored, code.
+Sigma Slicers
